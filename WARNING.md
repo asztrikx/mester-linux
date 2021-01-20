@@ -773,9 +773,6 @@
 - Haladó/Gráfok, mélységi bejárás/4. Csomópontok körökben **    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-- Haladó/Gráfok, mélységi bejárás/5. Duplán elérhető pontok *    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/6. Elárasztás *    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
