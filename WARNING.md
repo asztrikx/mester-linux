@@ -991,7 +991,7 @@
 - Haladó/Kombinatorikai algoritmusok/10. Következő azonosító **    _-100/minta.zip
 	- be1.txt `missing`
 	- ki1.txt `missing`
-- Haladó/Kombinatorikai algoritmusok/24. Akad�lyverseny ***    _-100/minta.zip
+- Haladó/Kombinatorikai algoritmusok/24. Akadályverseny ***    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
 - Haladó/Kombinatorikai algoritmusok/27. Ügyességi verseny **/task.zip `missing`
@@ -1004,9 +1004,6 @@
 - Haladó/Számelméleti algoritmusok/36. Nagy szám kis prímosztói **/task.zip `missing`
 - Haladó/Számelméleti algoritmusok/45. Páratlan számok    _-100/minta.zip
 	- feladat.java `extra`
-- Haladó/Egyéb feladatok/9. Fenyőfa **    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 - Haladó/Egyéb feladatok/32. Legrövidebb szakasz **    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
