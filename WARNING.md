@@ -670,6 +670,41 @@
 	- feladat.java `extra`
 - Haladó/Rekurzív adatszerkezetek/66. Szótár    _-100/minta.zip
 	- szotar.cpp `extra`
+- Haladó/Rekurzív adatszerkezetek/82. Dinamikus rendezett minta    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- rendminta.cpp `extra`
+	- rendminta.h `extra`
+- Haladó/Rekurzív adatszerkezetek/83. Dinamikus rendezett minta törléssel    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- rendminta.cpp `extra`
+	- rendminta.h `extra`
+- Haladó/Rekurzív adatszerkezetek/84. Művelatek sorozattal    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- sorozat.cpp `extra`
+	- sorozat.h `extra`
+- Haladó/Rekurzív adatszerkezetek/85. Intervallumok    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- interval.cpp `extra`
+	- interval.h `extra`
+- Haladó/Rekurzív adatszerkezetek/86. Pont a legtöbb intervallumban    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- maxipont.cpp `extra`
+	- maxipont.h `extra`
 - Haladó/Mohó algoritmusok/4. Asztalok ***    _-100/minta.zip
 	- be1.txt `missing`
 	- ki1.txt `missing`
@@ -1050,6 +1085,11 @@
 	- in.6 `extra`
 	- out.1 `extra`
 	- out.6 `extra`
+- NT, OKTV, IOI Válogató/EGOI Válogató 2021/5. Zászló    _-100/minta.zip
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- zaszlo.cpp `extra`
+	- zaszlo.h `extra`
 - CEOI (Közép-Európai Informatikai Diákolimpia)/CEOI 2005/2. Elektromos kerítés    _-100/minta.zip
 	- be1.txt `missing`
 	- be2.txt `missing`
