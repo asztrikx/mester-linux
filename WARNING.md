@@ -705,6 +705,17 @@
 	- ki2.txt `missing`
 	- maxipont.cpp `extra`
 	- maxipont.h `extra`
+- Haladó/Rekurzív adatszerkezetek/87. Génsebész    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- grader.cpp `extra`
+	- grader.h `extra`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
 - Haladó/Mohó algoritmusok/4. Asztalok ***    _-100/minta.zip
 	- be1.txt `missing`
 	- ki1.txt `missing`
@@ -752,6 +763,33 @@
 	- in.6 `extra`
 	- out.1 `extra`
 	- out.6 `extra`
+- Haladó/Dinamikus programozás/134. Növekvő Ödön és a Másoló Varázsló ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- Haladó/Dinamikus programozás/135. Az óvodai lét elviselhetetlen könnyűsége #2 ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- Haladó/Dinamikus programozás/136. Energiatakarékos ellenőrzés ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
 - Haladó/Gráfok, körmentes gráfok/1. Állatkert **    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -777,6 +815,15 @@
 - Haladó/Gráfok, körmentes gráfok/17. Szabadtéri állatkert ***    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
+- Haladó/Gráfok, körmentes gráfok/28. Építkezés ****    _-99/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
 - Haladó/Gráfok, bejárás `empty`
 - Haladó/Gráfok, szélességi bejárás/10. Bolha **    _-100/minta.zip
 	- ki1.txt `missing`
@@ -960,6 +1007,33 @@
 - Haladó/Gráfok, mélységi bejárás/53. Két hivatal ***/task.zip `missing`
 - Haladó/Gráfok, mélységi bejárás/57. Félig összefüggő    _-100/minta.zip
 	- linux.txt `extra`
+- Haladó/Gráfok, mélységi bejárás/76. Játék a síkon ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- Haladó/Gráfok, mélységi bejárás/77. Turista járatok ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- Haladó/Gráfok, mélységi bejárás/78. Multiplikátoros telebabrátor ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
 - Haladó/Gráfok, legrövidebb utak/1. Adott élen átmenő utak ***    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -978,6 +1052,15 @@
 - Haladó/Gráfok, legrövidebb utak/18. Repülőút menetrenddel ***    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
+- Haladó/Gráfok, legrövidebb utak/33. Vázsony vonatjegyet vásárol ****    _-98/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
 - Haladó/Gráfok, feszítőfák/7. Malmokból szállítás *    _-100/minta.zip
 	- be1.txt `missing`
 	- be2.txt `missing`
@@ -1001,6 +1084,15 @@
 	- ki2.txt `missing`
 - Haladó/Geometriai algoritmusok/38. Szuperhuszár    _-100/minta.zip
 	- Szuperhuszar.pdf `extra`
+- Haladó/Geometriai algoritmusok/44. Házak    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
 - Haladó/Visszalépéses keresés/7. Sudoku 1 *    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -1034,8 +1126,26 @@
 	- ki2.txt `missing`
 - Haladó/Kombinatorikai algoritmusok/34. Csapatösszeállítás    _-100/minta.zip
 	- feladat.java `extra`
+- Haladó/Kombinatorikai algoritmusok/57. Maximum felosztás ****    _-105/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
 - Haladó/Szimuláció/6. Bábuk ütközése 3 *    _-100/minta.zip
 	- ki1.txt `missing`
+- Haladó/Szimuláció/29. Nemzetközi Rántott Hús Fesztivál ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
 - Haladó/Számelméleti algoritmusok/36. Nagy szám kis prímosztói **/task.zip `missing`
 - Haladó/Számelméleti algoritmusok/45. Páratlan számok    _-100/minta.zip
 	- feladat.java `extra`
@@ -1085,6 +1195,114 @@
 	- in.6 `extra`
 	- out.1 `extra`
 	- out.6 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/1. Energiatakarékos ellenőrzés ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/2. Maximum felosztás ****    _-105/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/3. Génsebész    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/4. Játék a síkon ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/5. Növekvő Ödön és a Másoló Varázsló ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/6. Az óvodai lét elviselhetetlen könnyűsége #2 ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/7. Nemzetközi Rántott Hús Fesztivál ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/8. Turista járatok ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/9. Vázsony vonatjegyet vásárol ****    _-98/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/10. Energiatakarékos ellenőrzés ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/11. Multiplikátoros telebabrátor ****    _-100/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
+- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/12. Építkezés ****    _-99/minta.zip
+	- be1.txt `missing`
+	- be2.txt `missing`
+	- ki1.txt `missing`
+	- ki2.txt `missing`
+	- in.1 `extra`
+	- in.2 `extra`
+	- out.1 `extra`
+	- out.2 `extra`
 - NT, OKTV, IOI Válogató/EGOI Válogató 2021/5. Zászló    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
