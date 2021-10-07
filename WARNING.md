@@ -2,6 +2,8 @@
 - Kezdő/Elemi feladatok/13. Sportverseny 1. *    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
+- Kezdő/Elemi feladatok tömbökre/4. Erősen páratlan számok *    _-100/minta.zip
+	- feladat.docx `extra`
 - Kezdő/Programozási tételek: kiválogatás/3. Arányokban drága utazások *    _-100/minta.zip
 	- ki1.txt `missing`
 	- k1.txt `extra`
@@ -790,6 +792,7 @@
 	- in.2 `extra`
 	- out.1 `extra`
 	- out.2 `extra`
+- Haladó/Dinamikus programozás/137. Ládapakolás robottal***/task.zip `missing`
 - Haladó/Gráfok, körmentes gráfok/1. Állatkert **    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
