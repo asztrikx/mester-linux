@@ -849,6 +849,9 @@
 	- in.5 `extra`
 	- out.1 `extra`
 	- out.5 `extra`
+- Haladó/Gráfok, szélességi bejárás/82. Járások *    _-100/minta.zip
+	- ki1.txt `missing`
+	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/1. Ádám és Éva kirándul    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
