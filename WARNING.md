@@ -13,6 +13,9 @@
 - Kezdő/Programozási tételek: minimum, maximum számítás/45. Autópálya    _-100/minta.zip
 	- be2.txt `missing`
 	- ki2.txt `missing`
+- Kezdő/Programozási tételek: rendezések/23. Tó körüli települések    _-100/minta.zip
+	- in.15 `extra`
+	- out.15 `extra`
 - Kezdő/Programozási tételek: sorozatszámítás/10. Összterület *    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -949,9 +952,6 @@
 	- be2.txt `missing`
 	- ki1.txt `missing`
 	- ki2.txt `missing`
-- Haladó/Gráfok, mélységi bejárás/33. Mindenhova legyen út ***    _-100/minta.zip
-	- ki1.txt `missing`
-	- ki2.txt `missing`
 - Haladó/Gráfok, mélységi bejárás/34. Mindenhova vezessen út **    _-100/minta.zip
 	- ki1.txt `missing`
 	- ki2.txt `missing`
@@ -1274,15 +1274,6 @@
 	- out.1 `extra`
 	- out.2 `extra`
 - NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/9. Vázsony vonatjegyet vásárol ****    _-98/minta.zip
-	- be1.txt `missing`
-	- be2.txt `missing`
-	- ki1.txt `missing`
-	- ki2.txt `missing`
-	- in.1 `extra`
-	- in.2 `extra`
-	- out.1 `extra`
-	- out.2 `extra`
-- NT, OKTV, IOI Válogató/IOI ∕ CEOI Válogató 2021/10. Energiatakarékos ellenőrzés ****    _-100/minta.zip
 	- be1.txt `missing`
 	- be2.txt `missing`
 	- ki1.txt `missing`
